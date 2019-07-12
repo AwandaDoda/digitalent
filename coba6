@@ -1,0 +1,9 @@
+git init											=> 1x
+git add README.md									=> core
+	git add nama_file
+	git add .
+git commit -m "isi komen disini"					=> core
+git remote add origin LINK							=> 1x
+	https://github.com/AwandaDoda/digitalent.git
+git push -u origin master							=> core
+
